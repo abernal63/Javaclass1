@@ -12,7 +12,7 @@ public class HelloWorld {
 		
 		System.out.println("Hoy hay " + numAlumnos + " Alumnos");
 		
-		System.out.println("Hola");
+		System.out.println("Hola otra vez");
 		
 	}
 
