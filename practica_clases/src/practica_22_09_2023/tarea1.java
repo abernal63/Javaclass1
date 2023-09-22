@@ -21,12 +21,12 @@ package practica_22_09_2023;
 
 public class tarea1 {
 	
-	public void main(String[] args) {
+	public static void main(String[] args) {
 		
 		int entero = 8;
 		double decimal = 9485.58172;
 		double decimalNegativo = -135.248053912;
-		boolean booleano = 1 == 1;
+		boolean booleano = true;
 		char letra = 'w';
 		String texto = "Esto es un ejemplo de tipo de dato";
 		

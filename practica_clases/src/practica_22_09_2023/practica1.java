@@ -2,6 +2,7 @@ package practica_22_09_2023;
 
 public class practica1 {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int divisor = 2;
