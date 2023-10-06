@@ -43,7 +43,7 @@ public class Tarea3 {
 				}else if(veranea.equalsIgnoreCase("no")) {
 					System.out.println("Que desperdicio...");
 				}else {
-					System.out.println(veranea + " No es ni si ni no pedazo de trol.");
+					System.err.println(veranea + " No es ni si ni no pedazo de trol.");
 				}
 				break;
 			case "otoño":
@@ -53,7 +53,7 @@ public class Tarea3 {
 				System.out.println(carInvierno);
 				break;
 			default:
-				System.out.println("Que dices?? " + estacion + " No es una estación.");
+				System.err.println("Que dices?? " + estacion + " No es una estación.");
 				break;
 				
 		}
