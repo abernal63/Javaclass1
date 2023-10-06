@@ -4,10 +4,6 @@ public class EjemploVariables {
 
 	public static void main(String[] args) {
 		
-		byte curso = 1;
-		
-		float numFloat = 12.332f;
-		
 		double numDouble = 13.465;
 		
 		char letra = '?';
